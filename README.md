@@ -1,8 +1,6 @@
 <h1>RuneScrape - Personal Project</h1>
 
 <h2>About</h2>
-This is a social media website made for my intelligent media systems web developer course at university. This was a second year course that pushed us past simple HTML, CSS, and JS, by exploring more useful frameworks to speed up production and achieve more complex functionality.
-
 This is a web scraper console application used to provide prices of items in the game Old School Runescape.
 
 In Runescape, players can buy an item in bulk at a lower price from the market place, and sell them at a higher price, making profit. The advantages of using this application removes the tediousness of testing and researching of each potential item.
@@ -17,9 +15,9 @@ The ideas of this program can be applied to our real life stock market, providin
 <h2>Demo</h2>
 When you begin to run the program, it begins to to search through a list of items.
 It provides:
-  <>li>The oldest recorded price within 120 days</li>
-  <>li>The current price, and the median (middle) price of all the recorded prices within 120 days</li>
-  <>li>If the current price is below the median as an indication of if the item can be used as a potential investment</li>
+  <li>The oldest recorded price within 120 days</li>
+  <li>The current price, and the median (middle) price of all the recorded prices within 120 days</li>
+  <li>If the current price is below the median as an indication of if the item can be used as a potential investment</li>
 At the end the user is prompted to press any key to close the program.
 ![Image of Program](https://i.imgur.com/jvX53D4.png)
 
