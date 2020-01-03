@@ -3,7 +3,7 @@
 <h2>About</h2>
 This is a web scraper console application used to provide prices of items in the game Old School Runescape.
 
-In Runescape, players can buy an item in bulk at a lower price from the market place, and sell them at a higher price, making profit. The advantages of using this application removes the tediousness of testing and researching each potential item.
+In Runescape, players can buy an item in bulk at a lower price from the market place, and sell them at a higher price, making profit. The advantage of using this application removes the tediousness of testing and researching each potential item.
 
 The ideas of this program can be applied to our real life stock market, providing pricing charts much like the stock exchange.
 
