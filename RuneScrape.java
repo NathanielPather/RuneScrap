@@ -10,7 +10,7 @@ import java.text.DecimalFormat;
 
 import java.util.concurrent.TimeUnit;
 
-public class Hello {
+public class RuneScrape {
 	public static void main(String[] args) {
 		System.out.println("Running");
 		
