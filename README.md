@@ -19,13 +19,14 @@ It provides:
   <li>The current price, and the median (middle) price of all the recorded prices within 120 days</li>
   <li>If the current price is below the median as an indication of if the item can be used as a potential investment</li>
 At the end the user is prompted to press any key to close the program.
+<br><br>
 
 ![Image of Program](https://i.imgur.com/jvX53D4.png)
 
 <h2>Features</h2>
 <ul>
   <li>Web scraping data</li>
-  <li>Formatting scrapped HTML code to perform operations/li>
+  <li>Formatting scrapped HTML code to perform operations</li>
   <li>Providing the user with a variety of different prices for a variety of items.</li>
   <li>Prompting the user to close the program with user input</li>
 </ul>
