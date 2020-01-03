@@ -32,5 +32,7 @@ At the end the user is prompted to press any key to close the program.
 </ul>
 
 <h2>Other</h2>
+This is an example of the source website containing the data to scrape.
+<br><br>
 
 ![Example of Source Website containg Data](https://i.imgur.com/HVfdPQD.png)
